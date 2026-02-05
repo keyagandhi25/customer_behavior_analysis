@@ -89,3 +89,6 @@ The Power BI dashboard highlights:
 • Optimize discount strategies to protect margins
 • Highlight top-rated products in marketing campaigns
 • Target high-spend segments and express shipping users
+
+![customer_behavior_dashboard](https://github.com/user-attachments/assets/4561e14c-21a0-4bbc-9aae-a5932d2cf03c)
+
